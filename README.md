@@ -36,6 +36,5 @@ pip install -r requirements.txt
 
 Ouvrez le notebook dans Jupyter et exécutez les cellules pour reproduire l'analyse.
 
-## Références
-Ce projet s'appuie sur de nombreuses analyses de prédiction de prix de voitures disponibles sur GitHub et tire parti de l’assistance de ChatGPT et Copilot pour la génération et l'optimisation du code.
+
 
