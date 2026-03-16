@@ -1,8 +1,7 @@
 # Analyse Marché Automobile LeBonCoin
 
 ## Contexte
-
-Dans le cadre de l'achat d'une voiture d'occasion avec un budget limité, ce projet vise à analyser les données des annonces de véhicules d'occasion publiées sur Le Bon Coin. Le but est d'étudier les tendances des prix, d'identifier les principaux facteurs influençant ces prix, et de développer un modèle de régression capable d'estimer le prix d'une voiture en fonction de ses caractéristiques spécifiques. Ce modèle, conçu pour être simple et interprétable, a pour objectif de fournir aux acheteurs des informations utiles pour les aider dans leurs décisions.
+Ce projet consiste à analyser des données issues d’annonces de voitures d’occasion publiées sur Le Bon Coin. L’objectif est d’étudier l’évolution des prix, d’identifier les facteurs qui les influencent le plus et de mettre en place un modèle de régression capable d’estimer le prix d’un véhicule à partir de ses caractéristiques. Le modèle est conçu pour rester simple et compréhensible, afin de fournir aux acheteurs des indications utiles pour orienter leur décision.
 
 ## Structure du Projet
 
